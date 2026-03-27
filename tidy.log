@@ -10,9 +10,9 @@ Removing redundant shapes... done. (-76 shapes [-3.06%])
 Removing redundant routes... done. (-0 routes [-0.00%])
 Removing service duplicates... done. (-1073 services [-87.38%])
 Minimizing services... done. (-1339 calendar_dates.txt entries [-73.94%], +17 calendar.txt entries [+12.32%])
-Removing redundant trips... done. (-23542 trips [-34.20%])
-Removing unreferenced entries... done. (-0 trips [-0.00%], -0 stops [-0.00%], -0 shapes [-0.00%], -2341 services [-11.43%], -0 routes [-0.00%], -0 agencies [-0.00%], -0 transfers [-0.00%])
-Removing service duplicates... done. (-17979 services [-99.14%])
+Removing redundant trips... done. (-23559 trips [-34.23%])
+Removing unreferenced entries... done. (-0 trips [-0.00%], -0 stops [-0.00%], -0 shapes [-0.00%], -2019 services [-10.02%], -0 routes [-0.00%], -0 agencies [-0.00%], -0 transfers [-0.00%])
+Removing service duplicates... done. (-17965 services [-99.14%])
 Minimizing services... done. (-28 calendar_dates.txt entries [-3.86%], +0 calendar.txt entries [+0.00%])
 Minimizing ids... done.
 Outputting GTFS feed to 'gtfs_tper_clean.zip'... done.
