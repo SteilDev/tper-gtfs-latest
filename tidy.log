@@ -3,7 +3,7 @@ Parsing GTFS feed in 'gtfs_gommagtfsfe_latest.zip' ... done. (0 trips [0.00%], 0
 Parsing GTFS feed in 'gtfs_gtfsmex_latest.zip' ... done. (0 trips [0.00%], 0 stop times [0.00%], 0 stops [0.00%], 0 shapes [0.00%], 0 services [0.00%], 0 routes [0.00%], 0 agencies [0.00%], 0 transfers [0.00%], 0 pathways [0.00%], 0 levels [0.00%], 0 fare attributes [0.00%], 0 translations [0.00%] dropped due to errors.)
 Removing unreferenced entries... done. (-0 trips [-0.00%], -6 stops [-0.06%], -0 shapes [-0.00%], -0 services [-0.00%], -0 routes [-0.00%], -0 agencies [-0.00%], -0 transfers [-0.00%])
 Removing redundant agencies... done. (-1 agencies [-33.33%])
-Removing redundant stops... done. (-283 stops [-3.07%])
+Removing redundant stops... done. (-281 stops [-3.04%])
 Remeasuring shapes... done. (2471 shapes remeasured)
 Minimizing shapes... done. (-6203 shape points [-0.84%])
 Removing redundant shapes... done. (-49 shapes [-1.98%])
