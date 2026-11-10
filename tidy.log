@@ -11,7 +11,7 @@ Removing redundant routes... done. (-0 routes [-0.00%])
 Removing service duplicates... done. (-369 services [-73.21%])
 Minimizing services... done. (-3869 calendar_dates.txt entries [-86.19%], +4 calendar.txt entries [+3.31%])
 Removing redundant trips... done. (-597 trips [-1.63%])
-Removing unreferenced entries... done. (-0 trips [-0.00%], -0 stops [-0.00%], -0 shapes [-0.00%], -3 services [-0.42%], -0 routes [-0.00%], -0 agencies [-0.00%], -0 transfers [-0.00%])
+Removing unreferenced entries... done. (-0 trips [-0.00%], -0 stops [-0.00%], -0 shapes [-0.00%], -2 services [-0.28%], -0 routes [-0.00%], -0 agencies [-0.00%], -0 transfers [-0.00%])
 Removing service duplicates... done. (-575 services [-81.10%])
 Minimizing services... done. (-6 calendar_dates.txt entries [-0.96%], +3 calendar.txt entries [+2.48%])
 Minimizing ids... done.
